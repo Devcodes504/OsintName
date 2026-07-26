@@ -1,6 +1,6 @@
 # OsintName v1.0
 
-Herramienta OSINT para buscar nombres de usuario en varias redes sociales
+Herramienta OSINT para buscar nombres de usuario en varias redes sociales🔍👽
 
 ## Instalación 
 

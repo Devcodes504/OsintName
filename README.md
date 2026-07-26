@@ -11,6 +11,7 @@ pkg install python git -y
 pip install colorama
 git clone https://github.com/Devcodes504/OsintName.git
 cd OsintName
+python OsintName.py
 ```
 
 ### Para Linux:
@@ -20,5 +21,6 @@ sudo apt install python3 python3-pip git -y
 pip3 install colorama
 git clone https://github.com/Devcodes504/OsintName.git
 cd OsintName
+python3 OsintName.py
 ```
 
